@@ -117,18 +117,7 @@ The deadline for the final project submission is **10th November 2022, 23:59 IST
 2. Create the objects with Black and white and update their properties      accordingly as mentioned in the document.
 
 3. Create the methods for `Pawn` 
-
-      - To `move ` the object from one position to another position
-      - To `Update` the possible moves for the next step
-      - and To `update` the `Position Matrix` after an action
-   
-4. Show the results for any one of the moves of  `King` or `Bishop` or `Rook`  From one position to another and the respective changes your algorithm made.
-
-5. You need to use different types of sequences to store and manipulate.
-
-      - `basics of Python` :
-      - `About Chessboard basics` :
-      - `For the documentatioon ` :
+4. ....Soon updated
 
 
 
